@@ -1,1 +1,5 @@
-# vantaihieulinh
+# vnt-standard
+Wordpress standard
+
+#inlcude plugins:
+- 
